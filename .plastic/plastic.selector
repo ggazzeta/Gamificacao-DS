@@ -1,0 +1,4 @@
+repository "DS Adventures@local"
+  path "/"
+    smartbranch "/main" 
+     
